@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development and Gamedesign
 - 🌱 I’m currently learning UE4/5
 - 💞️ I’m looking to collaborate on any indie game or some C++ projects.
-- 📫 How to reach me:
+- 📫 How to reach me (feel free to contact):
   - Mail: denis.dovnar02@gmail.com
   - Telegram: @SunbeamOut
 <!---
